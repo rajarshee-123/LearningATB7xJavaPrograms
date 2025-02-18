@@ -4,7 +4,7 @@ This repo contains the source code for the
 Exercise that we have done in ATB7x Batch
 
 
-- Core Java Programms
+- Core Java Programs
 - OOPS
 - Collection Framework
 - Multi Threading 
